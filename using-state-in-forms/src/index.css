@@ -1,0 +1,11 @@
+
+body {
+    background-color: blanchedalmond;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    color: black;
+}
